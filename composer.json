@@ -1,0 +1,21 @@
+{
+    "name": "aop-io/patchwork-interceptor",
+    "description": "AOP with the Patchwork package (stream wrapper), PHP code interceptor for AOP.io (php-aop).",
+    "keywords": ["aop-io-interceptor", "patchwork", "aop", "stream wrapper", "lib"],
+    "license": "MIT",
+    "homepage": "http://aop.io",
+
+    "authors": [
+        {
+            "name": "Nicolas Tallefourtane",
+            "email": "dev@nicolab.net",
+            "homepage": "http://nicolab.net"
+        }
+    ],
+    "require": {
+      "php": ">=5.4"
+    },
+    "autoload": {
+      "psr-0": {"PatchworkInterceptor": "src/"}
+    }
+}
