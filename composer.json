@@ -1,6 +1,6 @@
 {
     "name": "aop-io/patchwork-interceptor",
-    "description": "AOP with the Patchwork package (stream wrapper), PHP code interceptor for AOP.io (php-aop).",
+    "description": "R&D: AOP with the `antecedent/patchwork` package (stream wrapper), PHP code interceptor for AOP.io (php-aop).",
     "keywords": ["aop-io-interceptor", "patchwork", "aop", "stream wrapper", "lib"],
     "license": "MIT",
     "homepage": "http://aop.io",
